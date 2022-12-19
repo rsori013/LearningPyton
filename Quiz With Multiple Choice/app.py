@@ -1,8 +1,8 @@
 from Question import Question
 questions_prompt = [
     "What is the capital of France? \n(a) Manila \n(b) Madrid \n(c) Paris \n\n",
-    "What color is a Banana? \n(a) Red \n(b) Blue \n(c) Yellow \n (d) Pink \n\n",
-    "What are the colors of Japan, white and what? \n(a) Red \n(b) Blue \n (c) Green \n (d) Pink \n\n"
+    "What color is a Banana? \n(a) Red \n(b) Blue \n(c) Yellow \n(d) Pink \n\n",
+    "What are the colors of Japan, white and what? \n(a) Red \n(b) Blue \n(c) Green \n (d)Pink \n\n"
 ]
 
 questions = [
